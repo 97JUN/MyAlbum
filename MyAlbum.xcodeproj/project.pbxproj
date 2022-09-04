@@ -13,6 +13,10 @@
 		2920647F28BBB848000F48BB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2920647D28BBB848000F48BB /* Main.storyboard */; };
 		2920648128BBB84A000F48BB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2920648028BBB84A000F48BB /* Assets.xcassets */; };
 		2920648428BBB84A000F48BB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2920648228BBB84A000F48BB /* LaunchScreen.storyboard */; };
+		2920648C28BBC8D6000F48BB /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2920648B28BBC8D6000F48BB /* CollectionViewCell.swift */; };
+		2920648E28BCDE60000F48BB /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2920648D28BCDE60000F48BB /* SecondViewController.swift */; };
+		2920649028BD14B9000F48BB /* PictureCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2920648F28BD14B9000F48BB /* PictureCollectionViewCell.swift */; };
+		2920649228BD1C92000F48BB /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2920649128BD1C92000F48BB /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		2920648028BBB84A000F48BB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2920648328BBB84A000F48BB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2920648528BBB84A000F48BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2920648B28BBC8D6000F48BB /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
+		2920648D28BCDE60000F48BB /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		2920648F28BD14B9000F48BB /* PictureCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PictureCollectionViewCell.swift; sourceTree = "<group>"; };
+		2920649128BD1C92000F48BB /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +67,10 @@
 				2920647728BBB848000F48BB /* AppDelegate.swift */,
 				2920647928BBB848000F48BB /* SceneDelegate.swift */,
 				2920647B28BBB848000F48BB /* ViewController.swift */,
+				2920648D28BCDE60000F48BB /* SecondViewController.swift */,
+				2920649128BD1C92000F48BB /* ThirdViewController.swift */,
+				2920648B28BBC8D6000F48BB /* CollectionViewCell.swift */,
+				2920648F28BD14B9000F48BB /* PictureCollectionViewCell.swift */,
 				2920647D28BBB848000F48BB /* Main.storyboard */,
 				2920648028BBB84A000F48BB /* Assets.xcassets */,
 				2920648228BBB84A000F48BB /* LaunchScreen.storyboard */,
@@ -140,6 +152,10 @@
 			files = (
 				2920647C28BBB848000F48BB /* ViewController.swift in Sources */,
 				2920647828BBB848000F48BB /* AppDelegate.swift in Sources */,
+				2920648C28BBC8D6000F48BB /* CollectionViewCell.swift in Sources */,
+				2920649228BD1C92000F48BB /* ThirdViewController.swift in Sources */,
+				2920649028BD14B9000F48BB /* PictureCollectionViewCell.swift in Sources */,
+				2920648E28BCDE60000F48BB /* SecondViewController.swift in Sources */,
 				2920647A28BBB848000F48BB /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
